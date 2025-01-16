@@ -24,7 +24,7 @@ Se muestran varias pruebas de imágenes, y algunas en las que el modelo identifi
 
 ![Captura de pantalla](https://raw.githubusercontent.com/AndreaCTS/imagenes/main/Screenshot%202025-01-08%20113725.png "Vista del proyecto")
 
-## Segementación:
+## Segmentación:
 
 1. Se hacen máscaras que tienen las regiones coloreadas
 2. Se calcula el centroide de las regiones de el surco de rouviere y el segmento IV
